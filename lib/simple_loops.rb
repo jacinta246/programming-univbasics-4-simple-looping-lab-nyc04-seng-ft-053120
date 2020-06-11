@@ -20,4 +20,6 @@ end
 
 def return_string_array
   count = 0
-  while
+  while count < array.length do
+    
+  end
