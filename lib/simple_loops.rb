@@ -24,3 +24,4 @@ def return_string_array
 
     count +=1
   end
+end
